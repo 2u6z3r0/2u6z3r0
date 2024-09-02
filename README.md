@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vitthal
 - 👀 I’m interested in full stack development with react, node & aws.
 - 🌱 Currently learning go, docker, AWS
-- 💞️ I’m looking to collaborate on any go/react project
+- 💞️ I’m looking to collaborate on any go/react/nodejs project
 - 📫 reach me on samrat.patil0202@gmail.com
 
 <!---
